@@ -52,8 +52,11 @@ a {
     background-color: #464545;
 }
 
+.text-center{
+    text-align: center!important;
+}
+
 #nav-list a {
-    /*text-align: center;*/
     font-weight: bolder;
     color: #282828;
     font-size: 1.2em;
